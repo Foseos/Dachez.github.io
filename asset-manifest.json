@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/Dachez.github.io/static/css/main.d7222561.css",
-    "main.js": "/Dachez.github.io/static/js/main.7f904117.js",
+    "main.js": "/Dachez.github.io/static/js/main.eef98165.js",
     "static/js/787.1ed0c42c.chunk.js": "/Dachez.github.io/static/js/787.1ed0c42c.chunk.js",
-    "static/media/project-img2.png": "/Dachez.github.io/static/media/project-img2.82722d34d45dff0ce154.png",
     "static/media/color-sharp.png": "/Dachez.github.io/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/Dachez.github.io/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/banner-bg.png": "/Dachez.github.io/static/media/banner-bg.cc1273af450504afe755.png",
     "static/media/header-img.svg": "/Dachez.github.io/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/project-img2.png": "/Dachez.github.io/static/media/project-img2.feea78941fdde7983258.png",
     "static/media/CentraNo2-Bold.ttf": "/Dachez.github.io/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/Dachez.github.io/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/Dachez.github.io/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/project-img3.png": "/Dachez.github.io/static/media/project-img3.8f8d9748b3fbf727871d.png",
     "static/media/footer-bg.png": "/Dachez.github.io/static/media/footer-bg.7bd67c0f73571d0acc02.png",
-    "static/media/project-img3.png": "/Dachez.github.io/static/media/project-img3.76061a3ea7a413344bb5.png",
     "static/media/contact-img.svg": "/Dachez.github.io/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
-    "static/media/project-img1.png": "/Dachez.github.io/static/media/project-img1.a2a46ff00ad3cb07ac8c.png",
+    "static/media/project-img4.jpg": "/Dachez.github.io/static/media/project-img4.f23d13aea5d5049e2320.jpg",
     "static/media/revicons.eot": "/Dachez.github.io/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/Dachez.github.io/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/Dachez.github.io/static/media/revicons.e8746a624ed098489406.woff",
@@ -30,11 +30,11 @@
     "static/media/arrow2.svg": "/Dachez.github.io/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
     "static/media/arrow1.svg": "/Dachez.github.io/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "main.d7222561.css.map": "/Dachez.github.io/static/css/main.d7222561.css.map",
-    "main.7f904117.js.map": "/Dachez.github.io/static/js/main.7f904117.js.map",
+    "main.eef98165.js.map": "/Dachez.github.io/static/js/main.eef98165.js.map",
     "787.1ed0c42c.chunk.js.map": "/Dachez.github.io/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d7222561.css",
-    "static/js/main.7f904117.js"
+    "static/js/main.eef98165.js"
   ]
 }
