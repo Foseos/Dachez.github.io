@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/Dachez.github.io/static/css/main.d7222561.css",
-    "main.js": "/Dachez.github.io/static/js/main.f34066a1.js",
+    "main.js": "/Dachez.github.io/static/js/main.881c542c.js",
     "static/js/787.1ed0c42c.chunk.js": "/Dachez.github.io/static/js/787.1ed0c42c.chunk.js",
     "static/media/color-sharp.png": "/Dachez.github.io/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/Dachez.github.io/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/PortFolio_1.png": "/Dachez.github.io/static/media/PortFolio_1.07e792409384395d4195.png",
     "static/media/banner-bg.png": "/Dachez.github.io/static/media/banner-bg.cc1273af450504afe755.png",
     "static/media/header-img.svg": "/Dachez.github.io/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
     "static/media/CV_LUCAS.pdf": "/Dachez.github.io/static/media/CV_LUCAS.d729890694d308ab264c.pdf",
@@ -31,11 +32,11 @@
     "static/media/arrow2.svg": "/Dachez.github.io/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
     "static/media/arrow1.svg": "/Dachez.github.io/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "main.d7222561.css.map": "/Dachez.github.io/static/css/main.d7222561.css.map",
-    "main.f34066a1.js.map": "/Dachez.github.io/static/js/main.f34066a1.js.map",
+    "main.881c542c.js.map": "/Dachez.github.io/static/js/main.881c542c.js.map",
     "787.1ed0c42c.chunk.js.map": "/Dachez.github.io/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d7222561.css",
-    "static/js/main.f34066a1.js"
+    "static/js/main.881c542c.js"
   ]
 }
