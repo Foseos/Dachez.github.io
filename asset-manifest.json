@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Dachez.github.io/static/css/main.d7222561.css",
-    "main.js": "/Dachez.github.io/static/js/main.48bb49a3.js",
+    "main.js": "/Dachez.github.io/static/js/main.870d692c.js",
     "static/js/787.1ed0c42c.chunk.js": "/Dachez.github.io/static/js/787.1ed0c42c.chunk.js",
     "static/media/color-sharp.png": "/Dachez.github.io/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/Dachez.github.io/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
@@ -15,6 +15,7 @@
     "static/media/project-img3.png": "/Dachez.github.io/static/media/project-img3.8f8d9748b3fbf727871d.png",
     "static/media/footer-bg.png": "/Dachez.github.io/static/media/footer-bg.7bd67c0f73571d0acc02.png",
     "static/media/PortFolio_1.png": "/Dachez.github.io/static/media/PortFolio_1.7fa9157a384248fd8b19.png",
+    "static/media/logo_SNCF.jpg": "/Dachez.github.io/static/media/logo_SNCF.d268e511bc02a992ca68.jpg",
     "static/media/contact-img.svg": "/Dachez.github.io/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
     "static/media/project-img4.jpg": "/Dachez.github.io/static/media/project-img4.f23d13aea5d5049e2320.jpg",
     "static/media/revicons.eot": "/Dachez.github.io/static/media/revicons.a77de540a38981833f9e.eot",
@@ -32,11 +33,11 @@
     "static/media/arrow2.svg": "/Dachez.github.io/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
     "static/media/arrow1.svg": "/Dachez.github.io/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "main.d7222561.css.map": "/Dachez.github.io/static/css/main.d7222561.css.map",
-    "main.48bb49a3.js.map": "/Dachez.github.io/static/js/main.48bb49a3.js.map",
+    "main.870d692c.js.map": "/Dachez.github.io/static/js/main.870d692c.js.map",
     "787.1ed0c42c.chunk.js.map": "/Dachez.github.io/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d7222561.css",
-    "static/js/main.48bb49a3.js"
+    "static/js/main.870d692c.js"
   ]
 }
