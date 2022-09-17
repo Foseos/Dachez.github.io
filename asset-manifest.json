@@ -1,13 +1,12 @@
 {
   "files": {
-    "main.css": "/Dachez.github.io/static/css/main.d7222561.css",
-    "main.js": "/Dachez.github.io/static/js/main.f42ed648.js",
+    "main.css": "/Dachez.github.io/static/css/main.258895ce.css",
+    "main.js": "/Dachez.github.io/static/js/main.9e271756.js",
     "static/js/787.1ed0c42c.chunk.js": "/Dachez.github.io/static/js/787.1ed0c42c.chunk.js",
     "static/media/color-sharp.png": "/Dachez.github.io/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/Dachez.github.io/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/banner-bg.png": "/Dachez.github.io/static/media/banner-bg.cc1273af450504afe755.png",
     "static/media/header-img.svg": "/Dachez.github.io/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
-    "static/media/CV_LUCAS.pdf": "/Dachez.github.io/static/media/CV_LUCAS.d729890694d308ab264c.pdf",
     "static/media/project-img2.png": "/Dachez.github.io/static/media/project-img2.feea78941fdde7983258.png",
     "static/media/CentraNo2-Bold.ttf": "/Dachez.github.io/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/Dachez.github.io/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
@@ -30,12 +29,12 @@
     "static/media/nav-icon2.svg": "/Dachez.github.io/static/media/nav-icon2.8b351626c3c32d991de1880fe1751064.svg",
     "index.html": "/Dachez.github.io/index.html",
     "static/media/nav-icon1.svg": "/Dachez.github.io/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
-    "main.d7222561.css.map": "/Dachez.github.io/static/css/main.d7222561.css.map",
-    "main.f42ed648.js.map": "/Dachez.github.io/static/js/main.f42ed648.js.map",
+    "main.258895ce.css.map": "/Dachez.github.io/static/css/main.258895ce.css.map",
+    "main.9e271756.js.map": "/Dachez.github.io/static/js/main.9e271756.js.map",
     "787.1ed0c42c.chunk.js.map": "/Dachez.github.io/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d7222561.css",
-    "static/js/main.f42ed648.js"
+    "static/css/main.258895ce.css",
+    "static/js/main.9e271756.js"
   ]
 }
