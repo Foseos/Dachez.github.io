@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Dachez.github.io/static/css/main.5c816e7d.css",
+    "main.css": "/Dachez.github.io/static/css/main.3badc0ff.css",
     "main.js": "/Dachez.github.io/static/js/main.4eae221f.js",
     "static/js/787.1ed0c42c.chunk.js": "/Dachez.github.io/static/js/787.1ed0c42c.chunk.js",
     "static/media/color-sharp.png": "/Dachez.github.io/static/media/color-sharp.bea361cfef80fefc2d1e.png",
@@ -29,12 +29,12 @@
     "static/media/nav-icon2.svg": "/Dachez.github.io/static/media/nav-icon2.8b351626c3c32d991de1880fe1751064.svg",
     "index.html": "/Dachez.github.io/index.html",
     "static/media/nav-icon1.svg": "/Dachez.github.io/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
-    "main.5c816e7d.css.map": "/Dachez.github.io/static/css/main.5c816e7d.css.map",
+    "main.3badc0ff.css.map": "/Dachez.github.io/static/css/main.3badc0ff.css.map",
     "main.4eae221f.js.map": "/Dachez.github.io/static/js/main.4eae221f.js.map",
     "787.1ed0c42c.chunk.js.map": "/Dachez.github.io/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c816e7d.css",
+    "static/css/main.3badc0ff.css",
     "static/js/main.4eae221f.js"
   ]
 }
